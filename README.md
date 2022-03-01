@@ -43,3 +43,4 @@ Notes:
 - Item contains an `ImageField`, can Django REST API handle an image upload with only `JSONParser`?
 - You can view the endpoint on the browser at `localhost:8000/items`
 - You can view images at `localhost:8000/Images/<int:pk>` where `pk` is the id of the item with the image
+- If you wish, you may use Class based views to implement the question
