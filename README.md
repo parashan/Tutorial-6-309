@@ -1,6 +1,6 @@
 # Tutorial-6-309
 
-### Task 1 - Use  Django REST Framework to  make a GET, POST endpoint at localhost:8000/items/
+### Task 1 - Use  Django REST Framework to  make GET, POST endpoints at localhost:8000/items/
 You are given the following Serializers, and Model objects:
 - ItemSerializer
 - Item 
@@ -16,7 +16,7 @@ POST Requirements
 
 Implement your answer in the `items_list` function in views.py.
 
-### Task 2 - Use  Django REST Framework to  make a GET, PUT, DELETE, PATCH endpoint at localhost:8000/items/<int:pk>
+### Task 2 - Use  Django REST Framework to  make GET, PUT, DELETE, PATCH endpoints at localhost:8000/items/<int:pk>
 You are given the following Serializers, and Model objects:
 - ItemSerializer
 - Item 
